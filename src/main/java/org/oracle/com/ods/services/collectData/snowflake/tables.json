@@ -1,0 +1,9 @@
+{
+  "tables": [
+    {
+      "name": "LH_ABS_TOB_METRICS",
+      "columns": "*",
+      "schemas": ["PHANALYTIC_78368_SN"]
+    }
+  ]
+}

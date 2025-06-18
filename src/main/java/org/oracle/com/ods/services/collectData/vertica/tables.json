@@ -1,0 +1,9 @@
+{
+  "tables": [
+    {
+      "name": "LH_ABS_SECTION",
+      "columns": "LH_ABS_SECTION_ID, UPDT_CNT, UPDT_TASK",
+      "schemas": ["APP_CMTDEV", "PHANALYTIC_78408", "PHANALYTIC_78408_LD"]
+    }
+  ]
+}

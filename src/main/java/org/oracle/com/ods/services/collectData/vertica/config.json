@@ -1,0 +1,7 @@
+{
+  "host": "10.190.160.30",
+  "port": 5433,
+  "user": "dbadmin",
+  "password": "analytics",
+  "database": "default"
+}

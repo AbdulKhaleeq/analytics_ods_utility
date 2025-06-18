@@ -1,0 +1,16 @@
+{
+  "tables": [
+    {
+      "name": "ENCNTR_ACCIDENT",
+      "primaryKey": "ENCNTR_ACCIDENT_ID",
+      "snowflakeSchema": "PHANALYTIC_86658",
+      "verticaSchema": "PHANALYTIC_86658"
+    },
+    {
+      "name": "PERSON_PRSNL_RELTN",
+      "primaryKey": "PERSON_PRSNL_RELTN_ID",
+      "snowflakeSchema": "PHANALYTIC_86658",
+      "verticaSchema": "PHANALYTIC_86658"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "user": "analytics_ods_user",
+  "password": "mq>*%97<32jS4%$g/vh:>Uh4BNK'",
+  "account": "cerner_dev",
+  "warehouse": "analytics_ods_wh",
+  "database": "analytics_ods_db",
+  "role": "ALL_DB_WRITER",
+  "outputPath" : "/Users/abdulkhaleeq/Documents/ODS/2025/January"
+}
